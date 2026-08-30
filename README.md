@@ -168,25 +168,20 @@ I'm currently improving my programming skills while continuing to build larger p
 
 ---
 
-## GitHub Stats
+## GitHub
 
-<p align="center">
+I use GitHub to document my projects, experiments, builds, and everything I learn along the way.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anadskman&show_icons=true&hide_border=true&theme=transparent" />
+Most of my repositories include:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadskman&layout=compact&hide_border=true&theme=transparent" />
+- Full source code
+- CAD files where applicable
+- Wiring and electronics documentation
+- Build logs
+- Photos and project progress
+- BOMs and parts lists
 
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anadskman&theme=github-compact&hide_border=true" width="100%"/>
-
-</p>
+[View all repositories →](https://github.com/anadskman)
 
 ---
 
