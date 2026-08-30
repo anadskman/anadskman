@@ -181,7 +181,7 @@ Most of my repositories include:
 - Photos and project progress
 - BOMs and parts lists
 
-[View all repositories →](https://github.com/anadskman)
+[View all repositories →](https://github.com/anadskman?tab=repositories)
 
 ---
 
